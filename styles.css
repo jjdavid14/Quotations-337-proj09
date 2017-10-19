@@ -1,0 +1,61 @@
+h1 {
+	text-align: center;
+}
+
+.quote {
+	border: 1px solid black;
+	border-radius: 25px;
+	padding: 25px;
+	margin-bottom: 10px;
+}
+
+.rating {
+	margin: 0 10px 0 10px;
+	font-size: 1.5em;
+}
+
+#flag {
+	margin-left: 50px;
+}
+
+.forms {
+	border: 2px solid black;
+	border-radius: 10px;
+	width: 250px;
+	padding: 20px;
+}
+
+.forms p {
+	display: inline-block;
+	width: 80px;
+}
+
+.forms input[type="submit"] {
+	margin-left: 80px;
+}
+
+#error-message {
+	margin-left: 80px;
+	width: 100%;
+	font-weight: bold;
+}
+
+input[type="submit"] {
+	margin-left: 10px;
+}
+
+#quote-form {
+	width: 500px;
+	border: 2px solid black;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+#quote-form p {
+	display: inline-block;
+	width: 80px;
+}
+
+#quote-form input[type="submit"] {
+	margin-left: 80px;
+}
